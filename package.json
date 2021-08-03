@@ -1,0 +1,14 @@
+{
+  "name": "get-code",
+  "version": "1.0.0",
+  "description": "A simple extractor of code from youtube videos or images on the web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh And Samaksh",
+  "license": "ISC",
+  "dependencies": {
+    "tesseract.js": "^2.1.5"
+  }
+}
